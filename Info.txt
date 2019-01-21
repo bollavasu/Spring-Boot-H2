@@ -1,0 +1,10 @@
+
+https://www.onlinetutorialspoint.com/spring-boot/spring-boot-h2-database-jdbc-example.html
+
+http://localhost:8080/h2-console    (sa/sa)
+ 
+http://localhost:8080/getAllItems
+
+http://localhost:8080/getItem?itemId=3
+
+http://localhost:8080/deteteItem?itemId=4
